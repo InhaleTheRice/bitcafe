@@ -1,0 +1,42 @@
+{
+  "name": "bitcafe",
+  "version": "0.1.0",
+  "description": "Hang out with friends in a chill space while playing games, listening to music, or watching videos together!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcaru/bitcafe.git"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "platform",
+    "chill",
+    "vibe",
+    "vibes",
+    "space",
+    "music",
+    "video",
+    "videos",
+    "song",
+    "songs",
+    "audio",
+    "player",
+    "radio",
+    "game",
+    "games",
+    "gaming",
+    "file",
+    "sharing",
+    "app"
+  ],
+  "author": "Joseph <jcaru@jcaru.com> (InhaleTheRice)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcaru/bitcafe/issues"
+  },
+  "homepage": "https://github.com/jcaru/bitcafe#readme"
+}
